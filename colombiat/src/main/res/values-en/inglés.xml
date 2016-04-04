@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colombia Tourist</string>
+    <string name="ciudad">Bogota</string>
+    <string name="reseña">Bogota is the capital of the Republic of Colombia and the main tourist destination in the country, because it has various activities and cultural heritages, It is home to major universities, and hosting international events.</string>
+    <string name="bares">BARS</string>
+    <string name="hoteles">HOTELS</string>
+    <string name="turismo">TUORISM</string>
+    <string name="demografica">DEMOGRAPHIC INFO</string>
+    <string name="candelario">CANDELARIO BAR: Cra. 5 # 13-14</string>
+    <string name="hardrock">HARD ROCK: Calle 81 # 13-05</string>
+    <string name="thepub">THE PUB: carrera 3 # 12-37</string>
+    <string name="volver">BACK</string>
+    <string name="acercade">About...</string>
+    <string name="acerca">Application developed by Daniel Ortiz Agudelo, student of telecommunications Engineering UdeA Ude@ APRIL 2016. Bogota Graphic population: Frank Ballesteros - DANE (National Department of Statistics).</string>
+    <string name="demografia">DEMOGRAPHICS: Bogotá D.C. It is the capital city of Colombia, and it is currently the most populous country with 7,363,782 inhabitants for 2005 city, according with projections of results of the national census of 2005. It was founded in 1538 by Gonzalo Jimenez de Quesada.</string>
+    <string name="hotelWindsor">HOTEL WINDSOR: Cl. 95 #9-97.</string>
+    <string name="hotelOpera">HOTEL OPERA: Calle 10 No. 5-72</string>
+    <string name="hotelnh">HOTEL NH:  Cl. 93b #18-42</string>
+    <string name="planetario">PLANETARIO DE BOGOTÁ: Cl. 26 #5-93 </string>
+    <string name="monserrate">CERRRO DE MONSERRATE: Carrera 2 E No. 21-48 </string>
+    <string name="maloka">MALOKA: Cra. 68 D No 24A-51</string>
+
+
+
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.danielortizagudelo.colombiat.turismo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            style="@style/textViewStyle.s"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/maloka"/>
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/maloka"
+            />
+        <TextView
+            style="@style/textViewStyle.s"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/planetario"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/planetario"
+            />
+
+        <TextView
+            style="@style/textViewStyle.s"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/monserrate"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/monserrate"/>
+        <Button
+            android:id="@+id/volver3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/volver"
+            android:textColor="@color/darkorange"/>
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DialogWhenLarge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkorange</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/black</item>
+    </style>
+
+    <style name="textViewStyle" parent="@android:style/TextAppearance.Medium">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">@color/wheat</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:gravity">center_vertical</item>
+        
+    </style>
+    
+    <style name="textViewStyle.grande">
+        <item name="android:textSize">30sp</item>
+
+    </style>
+
+    <style name="textViewStyle.s">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="textViewStyle.m">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+
+
+</resources>

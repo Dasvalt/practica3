@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="exposiciones">Expositions</string>
+    <string name="proyecto">Project</string>
+    <string name="practicas">Practice</string>
+    <string name="notaFina">Final Grade</string>
+    <string name="calcular">Calculate</string>
+    <string name="porcentajes">Porcentage (%)</string>
+    <string name="guardar">Save</string>
+    <string name="configuracion">Configurate</string>
+
+</resources>
